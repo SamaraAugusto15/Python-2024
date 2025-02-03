@@ -10,3 +10,4 @@ estudando prints e calcular / formulas
 ## dia 02
 estudando variaveis e inputs
 inteiros e outros tipos
+fiz exercicios

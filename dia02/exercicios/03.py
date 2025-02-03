@@ -1,0 +1,8 @@
+print("Era uma vez uma jovem moça")
+input()
+print("Ela mora em um castelo")
+input()
+print("E la tem muitos dragões")
+input()
+print("Ela ama seus dragões")
+input()
