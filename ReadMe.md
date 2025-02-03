@@ -6,3 +6,7 @@ estudando python com o Téo
 
 fazendo primeiros codigos
 estudando prints e calcular / formulas
+
+## dia 02
+estudando variaveis e inputs
+inteiros e outros tipos
