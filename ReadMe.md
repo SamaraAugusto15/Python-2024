@@ -17,3 +17,5 @@ if, else, elif, Booleano
 estrutura de repetição
 while, for
 
+resolvendo alguns exercicios
+
