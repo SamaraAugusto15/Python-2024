@@ -15,4 +15,5 @@ if, else, elif, Booleano
 
 ## dia03
 estrutura de repetição
+while, for
 
