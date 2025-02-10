@@ -19,5 +19,5 @@ while, for
 
 resolvendo alguns exercicios
 
-
+estudo de lista
 
