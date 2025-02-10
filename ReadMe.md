@@ -19,3 +19,5 @@ while, for
 
 resolvendo alguns exercicios
 
+
+
