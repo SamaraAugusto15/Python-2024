@@ -21,3 +21,6 @@ resolvendo alguns exercicios
 
 estudo de lista
 
+## dia04
+
+continuando estudo de lista
