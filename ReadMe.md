@@ -1,5 +1,6 @@
 # Estudos pessoal
-estudando python com o Téo
+estudando python com o curso do Téo Me Why
+foco em dados
 
 ## dia 01
 fazendo primeiros codigos
