@@ -25,3 +25,6 @@ estudo de lista
 ## dia04
 
 continuando estudo de lista
+
+estudo de dicionarios
+
