@@ -1,4 +1,5 @@
 #%%
+#dicionario == mapa
 
 dados = ["samys", "teste", 23]
 nome = dados[0]
@@ -17,3 +18,12 @@ nomes = dados["nome"]
 print(nomes)
 
 print(dados["amiga"][1]["idade"])
+
+#%%
+dados.keys()
+
+#%%
+dados.values()
+
+#%%
+dados.items()
