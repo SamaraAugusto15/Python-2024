@@ -27,4 +27,5 @@ estudo de lista
 continuando estudo de lista
 
 estudo de dicionarios
+começar tuplas
 
