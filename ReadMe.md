@@ -29,3 +29,4 @@ continuando estudo de lista
 estudo de dicionarios
 começar tuplas
 
+novidades -> loteria
