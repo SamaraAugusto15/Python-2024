@@ -30,3 +30,7 @@ estudo de dicionarios
 começar tuplas
 
 novidades -> loteria
+
+## dia05
+
+funções

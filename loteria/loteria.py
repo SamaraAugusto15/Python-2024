@@ -17,12 +17,3 @@ for i in range(3):
     else:
         print("Você errou. Tente um numero maior")
         
-
-#%%
-'''
-try:
-    numero = int(input("Entre com um numero entre 1 e 15: "))
-
-except ValueError as err:
-    print("Coloque um número")
-    '''
