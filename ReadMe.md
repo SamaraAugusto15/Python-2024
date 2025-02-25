@@ -40,3 +40,4 @@ novidades -> loteria
 funções
 bibliotecas
 leitura de arquivos
+API
