@@ -17,7 +17,7 @@ nomes = dados["nome"]
 
 print(nomes)
 
-print(dados["amiga"][1]["idade"])
+print(dados["amiga"][1])
 
 #%%
 dados.keys()
